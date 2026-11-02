@@ -1,6 +1,0 @@
----
-title: "404"
-date: last-modified
----
-
-Page not found, sorry! Try the search or navigate back to the base website.
