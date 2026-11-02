@@ -1,0 +1,58 @@
+---
+title: "Projects"
+date: last-modified
+hide_title: true
+---
+
+# Publications
+
+- Conrad Z, **Smiley CB**, Zavela C, Husband-Wood M, Hendricks B, Nane D. Food waste in the United States from 2001-2023: a new supplemental database for the National Health and Nutrition Examination Survey. ***(Manuscript in press)***
+
+# Presentations
+
+## Problem Gambling
+
+```{=html}
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 24px;">
+  <iframe 
+    src="https://docs.google.com/presentation/d/e/2PACX-1vSwpVmbPGBdov6-HGBiCKl0VVbis1wY1gmWkrxmlF0V55SQYyICAmugQBy2YFGEapHrArG4-Iajcgh8/pubembed?start=false&loop=false&delayms=30000"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+    allowfullscreen>
+  </iframe>
+</div>
+```
+
+**Description:** I have a passion for data visualization and an interest in [problem gambling](https://www.ncpgambling.org/help-treatment/faqs-what-is-problem-gambling/) as an under-discussed public health concern. Above is a presentation I created as a part of an independent project to share some concerning problem gambling trends. These figures were made using the Matplotlib library in Python.
+
+## Water Quality
+
+```{=html}
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 24px;">
+  <iframe 
+    src="https://docs.google.com/presentation/d/e/2PACX-1vRCxI6hXJ1BQPXRtymlfWwiY_ibM_zEcjDaCi31eC9RM2Lpb9wiABKnVVZEV67qVQok2dYsVMTr1r3t/pubembed?start=false&loop=false&delayms=30000"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+    allowfullscreen>
+  </iframe>
+</div>
+```
+
+**Description:** As a part of a 2025 internship with the [Chesterfield County Department of Environmental Engineering](https://www.chesterfield.gov/272/Environmental-Engineering), I created a presentation highlighting a few key trends related to their catalogue of unanalyzed water quality data. At the end of the internship, I presented these trends to department staff. These figures were made using the Matplotlib library in Python.
+
+```{=html}
+<style>
+  #title-block-header, 
+  .quarto-title-block,
+  h1.title,
+  header#title-block-header {
+    display: none !important;
+  }
+</style>
+```
+
+```{=html}
+<style>
+.quarto-title-meta {
+  display: none !important;
+}
+</style>
+```
